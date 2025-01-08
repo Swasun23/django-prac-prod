@@ -1,0 +1,3 @@
+[submodule "django-prac"]
+   path = django-prac
+   url = https://github.com/Swasun23/django-prac.git
